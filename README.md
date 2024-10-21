@@ -15,7 +15,7 @@ The YouTube Clone Webpage is designed to replicate the core features of YouTube.
 
 ## 🔗 **Live Demo**
 
-Explore the live demo of the YouTube Clone Webpage [here](https://ravigitacc87.github.io/YT-Clone/).
+Explore the live demo of the YouTube Clone Webpage [here](https://ravigitacc87.github.io/YouTube-clone/).
 
 ## 📸 **Preview**
 
